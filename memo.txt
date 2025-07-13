@@ -2,4 +2,3 @@ git init
 git status
 git pull
 git merge1905
-git merge1910
